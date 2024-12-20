@@ -5,7 +5,12 @@ from langchain.base_language import BaseLanguageModel
 
 
 LLAMA_HF = [
-    'Llama-2-7b'
+    'Llama-3.2-1B',
+    'Llama-3.2-1B-Instruct',
+    'Llama-3.2-3B',
+    'Llama-3.2-3B-Instruct'
+    'Llama-3.1-8B',
+    'Llama-2-7b',
     'Llama-2-7b-hf'
     'Llama-2-7b-chat',
     'Llama-2-7b-chat-hf',
